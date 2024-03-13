@@ -38,3 +38,4 @@
 [submodule "OpenCorePkg"]
 	path = OpenCorePkg
 	url = https://github.com/sasatasas/OpenCorePkg.git
+	branch = sasatasas-ubsantest-20231108
